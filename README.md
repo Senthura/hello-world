@@ -11,4 +11,5 @@ BionicBeaver4
 
 BionicBeaver5
 BionicBeaver6
+BionicBeaver7
 
